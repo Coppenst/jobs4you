@@ -19,4 +19,6 @@ in ionic itself:
 
 npm i -ionic
 
+npm install 
+
 ionic serve
